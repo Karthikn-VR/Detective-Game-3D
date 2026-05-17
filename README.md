@@ -63,5 +63,5 @@ This project is optimized for **Vercel**.
 - The `vercel.json` is pre-configured for SPA routing.
 
 ---
-Built with ☕ and 💻 by **Karthikeyan VR (Mochaa)**
+Built with ☕ and 💻 by **Karthikeyan VR**
 [LinkedIn](https://linkedin.com/in/karthikeyan-v-r-434268274) | [Email](mailto:karthikeyan33607@gmail.com)
